@@ -9,7 +9,7 @@ Surge Cache is a high-performance caching system designed to speed up web applic
 To install Surge Cache, follow these steps:
 
 ```bash
-git clone https://github.com/xxx/s3-surge-cache.git
+git clone 
 cd s3-surge-cache
 # If you're using a virtual environment
 python3 -m venv venv
