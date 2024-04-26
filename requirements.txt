@@ -1,0 +1,7 @@
+fastapi==0.110.1
+uvicorn[standard]==0.29.0
+aiobotocore
+boto3
+redis==5.0.3
+pydantic==2.7.0
+pydantic-settings
